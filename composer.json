@@ -1,6 +1,6 @@
 {
-  "name": "shopware-pwa/shopware-pwa",
-  "description": "Shopware PWA extension",
+  "name": "drumm3r/shopware-pwa",
+  "description": "Drumm3r's fork of Shopware PWA extension",
   "type": "shopware-platform-plugin",
   "license": "MIT",
   "authors": [{
