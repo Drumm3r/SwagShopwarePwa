@@ -3,9 +3,14 @@
   "description": "Drumm3r's fork of Shopware PWA extension",
   "type": "shopware-platform-plugin",
   "license": "MIT",
-  "authors": [{
+  "authors": [
+    {
       "name": "shopware AG"
-  }],
+    },
+    {
+      "name": "Drumm3r"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "SwagShopwarePwa\\": "src/"

@@ -1,5 +1,7 @@
 # Shopware PWA extension
 
+Please pay attention! This is not the shopware-pwa Plugin created by Shopware AG. This is a fork of the plugin to fix some critical bugs.
+
 This extension provides a collection of helper functions to integrate with the [shopware-pwa](https://github.com/DivanteLtd/shopware-pwa) client library.
 
 In order to use this extension with Shopware 6, make sure you install the latest [available version](#versions) compatible with your Shopware version.
